@@ -33,3 +33,9 @@ GitHubトレーニングチームによる、GitHub入門者向けトレーニ�
 
 * 同時通訳あり
 
+###運営／協力
+
+* [GitHub, Inc.](https://github.com/)
+* [HTML5-WEST.jp](http://www.html5-west.jp/)
+* [合同会社かぷっと](http://www.cap-ut.co.jp/)
+
